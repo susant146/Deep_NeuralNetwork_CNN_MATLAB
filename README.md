@@ -19,7 +19,7 @@ MATLAB is used by Engineers and Scientists to develop, automate and integrate de
 
 Link: https://in.mathworks.com/matlabcentral/answers/421259-why-should-i-choose-matlab-deep-learning-toolbox-over-other-opensource-frameworks-like-caffe-onnx
 
-## Images for Deep CNN in MATLAB
+## Pre-Trained Deep Nets in MATLAB!
 Pic Courtesy: MATLAB (Mathworks Limited)
 
 ![PretrainedNN](https://www.mathworks.com/help/deeplearning/transferlearningworkflow.png)
