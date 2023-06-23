@@ -8,7 +8,7 @@ clc
 net = googlenet;
 
 % Read an image for classification. 
-I = imread("peppers.png");
+I = imread("peacock.jpg");
 inputSize = net.Layers(1).InputSize;
 I = imresize(I,inputSize(1:2));
 
