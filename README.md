@@ -19,4 +19,4 @@ MATLAB is used by Engineers and Scientists to develop, automate and integrate de
 
 Link: https://in.mathworks.com/matlabcentral/answers/421259-why-should-i-choose-matlab-deep-learning-toolbox-over-other-opensource-frameworks-like-caffe-onnx
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://images.app.goo.gl/xFDuXx4ZHihz6kWQ8)
+![image](https://www.mathworks.com/help/deeplearning/transferlearningworkflow.png)
